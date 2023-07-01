@@ -1,2 +1,1 @@
-# alu-web-development
-A repository for web development tasks
+This is a repository for HTML and CSS basics.
